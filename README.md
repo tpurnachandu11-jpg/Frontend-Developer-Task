@@ -22,10 +22,11 @@ frontend-developer-task/
 
 How to Run the Project Locally
 1. Clone the repository
+   
 git clone <your-repo-url>
 cd frontend-developer-task
 
-🖥️ Backend Setup
+ Backend Setup
 Install dependencies
 cd backend
 npm install
@@ -44,7 +45,7 @@ It should display:
 MongoDB connected
 Server running on 5000
 
-🌐 Frontend Setup
+Frontend Setup
 Install dependencies
 cd ../frontend
 npm install
@@ -58,17 +59,17 @@ npm run dev
 
 Frontend runs at:
 
-👉 http://localhost:3000
+http://localhost:3000
 
-🧪 Testing the App
+Testing the App
 1. Signup a new user
 
 Visit:
-👉 http://localhost:3000/signup
+http://localhost:3000/signup
 
 2. Login
 
-👉 http://localhost:3000/login
+http://localhost:3000/login
 
 3. Dashboard Features
 
